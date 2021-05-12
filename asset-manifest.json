@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/retool-prototype/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/retool-prototype/static/js/main.17265b19.chunk.js",
+    "main.js.map": "/retool-prototype/static/js/main.17265b19.chunk.js.map",
+    "runtime-main.js": "/retool-prototype/static/js/runtime-main.773ed383.js",
+    "runtime-main.js.map": "/retool-prototype/static/js/runtime-main.773ed383.js.map",
+    "static/css/2.b04d17ff.chunk.css": "/retool-prototype/static/css/2.b04d17ff.chunk.css",
+    "static/js/2.de8edd76.chunk.js": "/retool-prototype/static/js/2.de8edd76.chunk.js",
+    "static/js/2.de8edd76.chunk.js.map": "/retool-prototype/static/js/2.de8edd76.chunk.js.map",
+    "static/js/3.26dee5f9.chunk.js": "/retool-prototype/static/js/3.26dee5f9.chunk.js",
+    "static/js/3.26dee5f9.chunk.js.map": "/retool-prototype/static/js/3.26dee5f9.chunk.js.map",
+    "index.html": "/retool-prototype/index.html",
+    "static/css/2.b04d17ff.chunk.css.map": "/retool-prototype/static/css/2.b04d17ff.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/retool-prototype/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.de8edd76.chunk.js.LICENSE.txt": "/retool-prototype/static/js/2.de8edd76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773ed383.js",
+    "static/css/2.b04d17ff.chunk.css",
+    "static/js/2.de8edd76.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.17265b19.chunk.js"
+  ]
+}
